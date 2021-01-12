@@ -4,5 +4,5 @@ Thank you for taking out your time to be here. My name is Apoorva and I am an en
 
 ## Movie Ratings:
 
-![Alt text](/Movie ratings/images/Rplot1.png?raw=true)
+![Alt text](Basketball/images/Rplot1.png?raw=true)
 
