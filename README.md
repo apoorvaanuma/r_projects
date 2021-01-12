@@ -6,3 +6,6 @@ Thank you for taking out your time to be here. My name is Apoorva and I am an en
 
 ![Alt text](Basketball/images/Rplot1.png?raw=true)
 
+## Movie Ratings Vizualization
+![Alt text](https://github.com/apoorvaanuma/r_projects/blob/main/Movie%20ratings/images/Rplot1.png?raw=true)
+
